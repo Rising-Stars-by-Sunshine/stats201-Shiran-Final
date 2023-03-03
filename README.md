@@ -27,3 +27,22 @@ His current intended major is Applied Mathematics and Computational Sciences (Co
 ## Project Information
 
 ![STATS 201 Final Poster - Shiran](https://user-images.githubusercontent.com/105504535/221129801-41736a63-c0a0-446c-99de-b42e89d63a0f.png)
+
+## Data
+
+Data Source: `snscrape.modules.twitter`
+* `Explanation_Data.txt`: Contains the raw content of all queried tweets.
+* `PS2_Data.txt`: Contains the number of queried tweets for each day from Jan 1st 2013 to Dec 31st 2022. Days without queried tweets are not shown.
+
+## Code
+
+Modelling Tool: `scikit-learn`
+* `PS2_Query_Data.ipynb`: Queries tweets and records their dates. Produces the data file `PS2_Data.txt`.
+* `PS2_Process_Data.ipynb`: Processes and visualizes `PS2_Data.txt`. 
+* `Final_Analyze_Data.ipynb`: This is the new part in this project: to analyze `PS2_Data.txt`. Produces the figure `causal_inference_spotlight.png`.
+
+## Spotlights
+
+`causal_inference_spotlight.png`: The results of the causal inference.
+
+![image](https://user-images.githubusercontent.com/105504535/222707098-55688675-cd7b-478e-9e90-76a77d11d509.png)
