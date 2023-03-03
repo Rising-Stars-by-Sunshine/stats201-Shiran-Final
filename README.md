@@ -4,6 +4,9 @@ This is Shiran Yuan's repository for the course STATS 201.
 ## Table of Contents
 * [Bio](#bio)
 * [Project Information](#project-information)
+* [Data](#data)
+* [Code](#code)
+* [Spotlights](#spotlights)
 
 ## Bio
 ![Shiran](https://user-images.githubusercontent.com/105504535/213655331-9881b742-241d-48af-b3c3-27fdb4d8092d.jpeg)
